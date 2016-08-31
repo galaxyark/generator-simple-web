@@ -1,0 +1,15 @@
+{
+  "name": "generator-simple-web",
+  "version": "0.1.0",
+  "description": "My simple yo generator to bootstrap a web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": ["generators/app"],
+  "author": "Fangzhou Lu",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
