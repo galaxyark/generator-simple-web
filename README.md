@@ -4,4 +4,7 @@ A basic react-redux Yoeman generator with Babel and Webpack.
 
 ```
   npm link
+
+  yo simple-web
+  
 ```
